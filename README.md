@@ -27,6 +27,6 @@ I am 18 years old student in Turkey. I am sharing the codes I wrote in my own wa
 <div align="center"> <h1>Github Stats 📈</h1></div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xavierpls&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
-    <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierpls&theme=dark&show_icons=true&locale=tr&layout=compact" alt="xavierpls"/>
 </div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xavierpls&theme=dark&show_icons=true&locale=tr" alt="xavierpls"></div>
